@@ -63,3 +63,19 @@ emotions - ***hate, like, love, need, prefer, satisfy, want***
 the human sences - ***hear, see, smell, sound, taste*** 
 appearence - ***appear, look, resemble, seem*** 
 possession and relationships between things - ***belong to, consist of, have, include, involve, own***
+## Exercises
+### A
+1. usually goes || 2. is talking || 3. aren’t eating || 4. Is air travel getting || 5. calls
+6. do babysitters generally earn || 7. You’re always coming || 8. don’t go/always try || 9. does stop|| 10. takes   
+### B
+1. often gets up || 2. Do you speak || 3. I have already bought || 4. I have ever had
+5. works || 6. has never eaten || 7. has already booked || 8. Does Melanie need   
+### C
+1. I have ever eaten || 2. has not seen || 3. have gone || 4. has been writing || 5. Have you ever met
+6. I have been trying || 7. I have not finished || 8. Have you already decided || 9. We have been living || 10. I have never heard    
+### D
+1. ever || 2. yet || 3. since || 4. for || 5. so
+6. rarely || 7. just || 8. still || 9. before || 10. already    
+### E
+1. B || 2. C || 3. C || 4. D || 5. A
+6. C || 7. A || 8. B || 9. A || 10. A   
