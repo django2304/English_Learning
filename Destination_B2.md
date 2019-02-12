@@ -79,3 +79,18 @@ possession and relationships between things - ***belong to, consist of, have, in
 ### E
 1. B || 2. C || 3. C || 4. D || 5. A
 6. C || 7. A || 8. B || 9. A || 10. A   
+### F
+1. knows || 2. does || 3. seem || 4. see || 5. understand
+6. include || 7. disagree || 8. looks || 9. be (are)
+### G
+1. B || 2. F || 3. D || 4. H
+5. A || 6. C || 7. G || 8. E
+### H
+1. to || 2. been || 3. I have to || 4. been || 5. making, now
+6. are || 7. have || 8. sometime, am || 9. had || 10. is
+### I
+1. been || 2. do || 3. got || 4. being || 5. It || 6. are
+7. am || 8. seems || 9. have|| 10. think || 11. not || 12. ever
+### J
+1. much are the tickets || 2. these trainers belong to || 3. does not like || 4. has been || 5. have been there for
+6. have been writing for || 7. time I have been flying || 8. is in a bath || 9. does enjoy
